@@ -1,0 +1,28 @@
+{
+  "name": "firstnode",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "mongodb"
+  ],
+  "author": "Roberto Hernandez R",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoHR34/first-node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobertoHR34/first-node-js/issues"
+  },
+  "homepage": "https://github.com/RobertoHR34/first-node-js#readme"
+}
