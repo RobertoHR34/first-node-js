@@ -2,7 +2,8 @@ const http = require('http');
 let hostname = '0.0.0.0';
 let port = process.env.PORT || '3000';
 
-var friends = require("./friends.json"); // Once for all times
+
+var friends = require("./newfriends.json"); // Once for all times
 
 const server = http.createServer((request, response) => {
     response.statusCode = 200;
